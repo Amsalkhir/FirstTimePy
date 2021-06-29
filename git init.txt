@@ -1,0 +1,2 @@
+git init
+Run here and repository
